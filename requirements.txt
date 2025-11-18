@@ -1,0 +1,13 @@
+robin-stocks
+python-dotenv
+pandas
+numpy
+requests
+scikit-learn
+transformers
+torch
+vaderSentiment
+beautifulsoup4
+finnhub-python
+yfinance
+matplotlib
