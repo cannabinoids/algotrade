@@ -1,4 +1,5 @@
 Algorithmic Trading Bot Collection
+
 This repository contains a collection of algorithmic trading bots written in Python. These bots interface with the Robinhood platform (and others, like Finnhub) to execute trades based on a variety of strategies. The scripts range from simple, single-strategy bots to complex, multi-strategy bots that incorporate machine learning and natural language processing for sentiment analysis.
 
 Overview
